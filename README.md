@@ -7,4 +7,4 @@ We'll use 10,000 most frequently occurring words in the training data. Rare word
 ## Model for Multi-Class Classification using Keras
 ##### Hidden layers = 2 with 64 neuron in each layer
 ##### Relu activation is used for hidden layer and softmax for final layer.
-##### Using batch_size=512, epoch = 9 We get good Accuracy of around 88%
+##### Using batch_size=512, epoch = 9 We get good Accuracy of around 80%
